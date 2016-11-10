@@ -1,0 +1,11 @@
+{
+    "name": "zoomyboy/laravel-custom-collection",
+    "description": "Custom Collection for laravel with useful functions",
+    "authors": [
+        {
+            "name": "Philipp Lang",
+            "email": "pille@zoomyboy.de"
+        }
+    ],
+    "require": {}
+}
