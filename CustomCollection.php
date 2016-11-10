@@ -1,6 +1,6 @@
 <?php
 
-namespace Zoomyboy;
+namespace Zoomyboy\LaravelCustomCollection;
 
 class CustomCollection extends \Illuminate\Database\Eloquent\Collection {
 	public function pluckRec($plucker, $return = false) {
