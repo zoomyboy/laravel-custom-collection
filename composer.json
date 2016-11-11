@@ -8,7 +8,7 @@
         }
     ],
 	"autoload": {
-		"files": ["CustomCollection.php"]
+		"files": ["CustomCollection.php", "Helpers.php"]
 	},
     "require": {}
 }
