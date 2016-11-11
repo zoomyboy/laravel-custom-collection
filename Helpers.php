@@ -1,4 +1,4 @@
 <?php
 function customCollect($vars) {
-	return new Zoomyboy\LaravelCustomCollrction\CustomCollection($vars);
+	return new Zoomyboy\LaravelCustomCollection\CustomCollection($vars);
 }

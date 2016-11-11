@@ -10,5 +10,7 @@
 	"autoload": {
 		"files": ["CustomCollection.php", "Helpers.php"]
 	},
-    "require": {}
+    "require": {
+        "zoomyboy/helpers": ">=1.0.2"
+    }
 }
